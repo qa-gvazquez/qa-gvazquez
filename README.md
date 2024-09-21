@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qa-gvazquez
+- 👋 Hi, I’m @qa-gvazquez from Veracruz, Mexico.
 - 👀 I’m interested in Automation: Home, Industrial or Software Automation.
 - 🌱 I’m currently learning BDD with Cucumber, and CI/CD on Jenkins.
 - 💞️ I’m looking to collaborate on Automation Frameworks on Selenium with Java, Python or JavaScript.

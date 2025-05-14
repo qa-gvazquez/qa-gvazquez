@@ -70,7 +70,7 @@ You can click the Preview link to take a look at your changes.
 ### :fire: Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinerb19&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qa-gvazquez&layout=compact&theme=default" alt="Top Langs" />
 </p>
 
 ---

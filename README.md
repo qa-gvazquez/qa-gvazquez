@@ -12,15 +12,11 @@ qa-gvazquez/qa-gvazquez is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm German</h1>
-
-<p align="center">
-  <em>Senior QA Automation Engineer :rocket:</em>
-</p>
+![Header](./github-header-banner.png)
 
 ---
 
-### 👨🏾‍💻 About Me
+### About Me
 
 - :telescope: I'm currently working on building an end-to-end automation framework using **Java, Selenium WebDriver, and RestAssured.**
 - :seedling: I'm currently learning **JENKINS** and **Cucumber** to improve my CI/CD pipeline configuration skills.
@@ -32,32 +28,26 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
-
+### TECH STACK:
+ 
 <p>
 <!-- Java -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<!-- C# -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-<!-- Visual Studio 2022 (usa icono genérico de VS) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
 <!-- VS Code -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<!-- intelliJ -->
+<!-- IntelliJ -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
 <!-- Github -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<!-- Postman -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-<!-- Selenium -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
 <!-- Jenkins -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
-<!-- Microsoft Azure -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
 </p>
+
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+  ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+  ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ---
 
@@ -85,9 +75,8 @@ You can click the Preview link to take a look at your changes.
 
 ### :chart_with_upwards_trend: GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qa-gvazquez&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+   ![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=qa-gvazquez)
+
 
 
 ---

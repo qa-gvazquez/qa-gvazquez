@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 :small_blue_diamond: [Java for QA Testers](https://github.com/mx-gvazquez/JavaForTesters)  
 
 ---
-
+<!--
 ### :fire: Most Used Languages
 
 <p>
@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
-<!--
+
 ### 🏅 Certifications
 
 | Certification        | Link                           | Issued Date |
